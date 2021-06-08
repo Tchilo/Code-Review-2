@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Code review from trials
 
-> One paragraph statement about the project.
+> Learning how to make a code Review.
 
 ![screenshot](./app_screenshot.png)
 
@@ -14,9 +14,6 @@ Additional description about the project and its features.
 - Frameworks
 - Technologies used
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -45,15 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AkashaRojee](https://github.com/AkashaRojee)
 
 ## 🤝 Contributing
 
